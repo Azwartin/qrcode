@@ -1,0 +1,12 @@
+c:\users\not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Debug\QRCodeApplication.exe.config
+c:\users\not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Debug\QRCodeApplication.exe
+c:\users\not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Debug\QRCodeApplication.pdb
+c:\users\not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.Form1.resources
+c:\users\not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.Properties.Resources.resources
+c:\users\not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.csproj.GenerateResource.Cache
+c:\users\not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.exe
+c:\users\not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\obj\Debug\QRCodeApplication.pdb
+C:\Users\Not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Debug\zxing.dll
+C:\Users\Not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Debug\zxing.presentation.dll
+C:\Users\Not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Not\documents\visual studio 2015\Projects\QRCodeApplication\QRCodeApplication\bin\Debug\AForge.Video.dll
